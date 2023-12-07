@@ -3173,5 +3173,181 @@
             "被收藏次數": 0,
             "id": 244
         }
+    ],
+    "areas": [
+        {
+            "id": 1,
+            "name": "萬里區",
+            "englishName": "Wanli",
+            "areaCode": "207"
+        },
+        {
+            "id": 2,
+            "name": "金山區",
+            "englishName": "Jinshan",
+            "areaCode": "208"
+        },
+        {
+            "id": 3,
+            "name": "板橋區",
+            "englishName": "Banqiao",
+            "areaCode": "220"
+        },
+        {
+            "id": 4,
+            "name": "汐止區",
+            "englishName": "Xizhi",
+            "areaCode": "221"
+        },
+        {
+            "id": 5,
+            "name": "深坑區",
+            "englishName": "Shenkeng",
+            "areaCode": "222"
+        },
+        {
+            "id": 6,
+            "name": "石碇區",
+            "englishName": "Shiding",
+            "areaCode": "223"
+        },
+        {
+            "id": 7,
+            "name": "瑞芳區",
+            "englishName": "Ruifang",
+            "areaCode": "224"
+        },
+        {
+            "id": 8,
+            "name": "平溪區",
+            "englishName": "Pingxi",
+            "areaCode": "226"
+        },
+        {
+            "id": 9,
+            "name": "雙溪區",
+            "englishName": "Shuangxi",
+            "areaCode": "227"
+        },
+        {
+            "id": 10,
+            "name": "貢寮區",
+            "englishName": "Gongliao",
+            "areaCode": "228"
+        },
+        {
+            "id": 11,
+            "name": "新店區",
+            "englishName": "Xindian",
+            "areaCode": "231"
+        },
+        {
+            "id": 12,
+            "name": "坪林區",
+            "englishName": "Pinglin",
+            "areaCode": "232"
+        },
+        {
+            "id": 13,
+            "name": "烏來區",
+            "englishName": "Wulai",
+            "areaCode": "233"
+        },
+        {
+            "id": 14,
+            "name": "永和區",
+            "englishName": "Yonghe",
+            "areaCode": "234"
+        },
+        {
+            "id": 15,
+            "name": "中和區",
+            "englishName": "Zhonghe",
+            "areaCode": "235"
+        },
+        {
+            "id": 16,
+            "name": "土城區",
+            "englishName": "Tucheng",
+            "areaCode": "236"
+        },
+        {
+            "id": 17,
+            "name": "三峽區",
+            "englishName": "Sanxia",
+            "areaCode": "237"
+        },
+        {
+            "id": 18,
+            "name": "樹林區",
+            "englishName": "Shulin",
+            "areaCode": "238"
+        },
+        {
+            "id": 19,
+            "name": "鶯歌區",
+            "englishName": "Yingge",
+            "areaCode": "239"
+        },
+        {
+            "id": 20,
+            "name": "三重區",
+            "englishName": "Sanchong",
+            "areaCode": "241"
+        },
+        {
+            "id": 21,
+            "name": "新莊區",
+            "englishName": "Xinzhuang",
+            "areaCode": "242"
+        },
+        {
+            "id": 22,
+            "name": "泰山區",
+            "englishName": "Taishan",
+            "areaCode": "243"
+        },
+        {
+            "id": 23,
+            "name": "林口區",
+            "englishName": "Linkou",
+            "areaCode": "244"
+        },
+        {
+            "id": 24,
+            "name": "蘆洲區",
+            "englishName": "Luzhou",
+            "areaCode": "247"
+        },
+        {
+            "id": 25,
+            "name": "五股區",
+            "englishName": "Wugu",
+            "areaCode": "248"
+        },
+        {
+            "id": 26,
+            "name": "八里區",
+            "englishName": "Bali",
+            "areaCode": "249"
+        },
+        {
+            "id": 27,
+            "name": "淡水區",
+            "englishName": "Tamsui",
+            "areaCode": "251"
+        },
+        {
+            "id": 28,
+            "name": "三芝區",
+            "englishName": "Sanzhi",
+            "areaCode": "252"
+        },
+        {
+            "id": 29,
+            "name": "石門區",
+            "englishName": "Shimen",
+            "areaCode": "253"
+        }
     ]
 }
